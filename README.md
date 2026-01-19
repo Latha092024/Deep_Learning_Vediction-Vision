@@ -237,7 +237,7 @@ CHUNK_OVERLAP = 100
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - [Case.law](https://case.law/) for providing open access to legal data
 - [Hugging Face](https://huggingface.co/) for transformer models
