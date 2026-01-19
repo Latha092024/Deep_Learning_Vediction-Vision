@@ -251,5 +251,5 @@ For questions or feedback, please open an issue on GitHub.
 ---
 
 <p align="center">
-  Made with ❤️ for CMPE 258 Deep Learning
+  
 </p>
